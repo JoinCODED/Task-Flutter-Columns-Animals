@@ -5,6 +5,7 @@ Create a new project and design an application similar to the above screenshot.
 💡 Hints:
 
 The [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) widget.
+
 The [Image](https://api.flutter.dev/flutter/widgets/Image-class.html) widget.
 
 ## Instructions
