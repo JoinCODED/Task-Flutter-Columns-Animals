@@ -11,6 +11,8 @@ The [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) widget.
 
 The [Image](https://api.flutter.dev/flutter/widgets/Image-class.html) widget.
 
+The [Container](https://api.flutter.dev/flutter/widgets/Container-class.html) widget.
+
 ## Instructions
 
 1. Create a new project call it: animals_flutter_app and set it up like you did in the previous task.
@@ -37,11 +39,11 @@ assets:
 14. Give your first `Text` widget a margin from the `top` and from the `left`.
 15. Give the rest `Text` widgets a margin from the `left`.
 
-### 🍋 The basic challenge title
+### 🍋 Decoration
 
 1. Give your each container a different color, and maybe style your text more 🖌️.
 
-### 🌶 The Extreme challenge title
+### 🌶 Row
 
 1. Add a `Row` widget so the the 3 `Text` widgets appears on one line.
 
