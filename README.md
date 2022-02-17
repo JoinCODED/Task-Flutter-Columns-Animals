@@ -1,5 +1,8 @@
 # Animal Information 🦊
 
+![result](https://user-images.githubusercontent.com/84308096/154492581-93214499-5aeb-4abd-9fc7-7759e29daa94.png)
+
+
 Create a new project and design an application similar to the above screenshot.
 
 💡 Hints:
