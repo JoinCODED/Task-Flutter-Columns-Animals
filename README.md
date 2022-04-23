@@ -13,7 +13,7 @@ The [Image](https://api.flutter.dev/flutter/widgets/Image-class.html) widget.
 
 The [Container](https://api.flutter.dev/flutter/widgets/Container-class.html) widget.
 
-## Instructions
+## 🍋 Instructions
 
 1. Create a new project call it: animals_flutter_app and set it up like you did in the previous task.
 2. Pick up an animal picture online and create a folder in your root file and call it `assets`.
@@ -39,7 +39,7 @@ assets:
 14. Give your first `Text` widget a margin from the `top` and from the `left`.
 15. Give the rest `Text` widgets a margin from the `left`.
 
-### 🍋 Decoration
+### 🤼‍♂️ Decoration
 
 1. Give your each container a different color, and maybe style your text more 🖌️.
 
