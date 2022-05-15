@@ -43,9 +43,10 @@ assets:
 
 1. Give your each container a different color, and maybe style your text more 🖌️.
 
-### 🌶 Row
+### 🌶 Bonus
 
 1. Add a `Row` widget so the the 3 `Text` widgets appears on one line.
+2. Make the animal image circular .  
 
 💡 Hints:
 The [Row](https://api.flutter.dev/flutter/widgets/Row-class.html) widget.
