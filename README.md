@@ -2,29 +2,27 @@
 
 ![result](https://user-images.githubusercontent.com/84308096/154492581-93214499-5aeb-4abd-9fc7-7759e29daa94.png)
 
-
 Create a new project and design an application similar to the above screenshot.
 
-💡 Hints:
+## Setup
 
-The [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) widget.
-
-The [Image](https://api.flutter.dev/flutter/widgets/Image-class.html) widget.
-
-The [Container](https://api.flutter.dev/flutter/widgets/Container-class.html) widget.
-
-## 🍋 Instructions
-
-
-```
 1. Create a new Github repo
 2. Create a local repo using the command `git init`
 3. Push to the new repo
 
+```shell
 git remote add origin https://github.com/YourUsername/repoName.git
+```
+
+```shell
 git branch -M main
+```
+
+```shell
 git push -u origin main
 ```
+
+## 🍋 Instructions
 
 1. Create a new project call it: animals_flutter_app and set it up like you did in the previous task.
 2. Pick up an animal picture online and create a folder in your root file and call it `assets`.
@@ -39,16 +37,15 @@ assets:
 
 ⚠️ Make sure of your image name and type, maybe rename your image to `animal` and check the type ex: jpg, png, jpeg etc.
 
-6. In your `Scaffold` `body` argument, pass it a `Column` widget.
-7. In your `Column`s `children` argument, add an `Image.asset` widget.
-8. Give your image a `height` and `width`.
-9. Add 3 `Text` widgets and fill them up with the name, age and gender.
-10. Add a `mainAxisAlignment` and `crossAxisAlignment` arguments to your `Column` widget.
-11. Wrap your `Image` widget with a `Container` widget.
-12. Give it an `Alignment` argument.
-13. Wrap each `Text` widget with a `Container` widget.
-14. Give your first `Text` widget a margin from the `top` and from the `left`.
-15. Give the rest `Text` widgets a margin from the `left`.
+💡 Here's the widgets you will need:
+
+The [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) widget.
+
+The [Image](https://api.flutter.dev/flutter/widgets/Image-class.html) widget.
+
+The [Container](https://api.flutter.dev/flutter/widgets/Container-class.html) widget.
+
+The [Text](https://api.flutter.dev/flutter/widgets/Text-class.html) widget.
 
 ### 🤼‍♂️ Decoration
 
@@ -57,7 +54,21 @@ assets:
 ### 🌶 Bonus
 
 1. Add a `Row` widget so the the 3 `Text` widgets appears on one line.
-2. Make the animal image circular .  
+2. Make the animal image circular .
 
 💡 Hints:
 The [Row](https://api.flutter.dev/flutter/widgets/Row-class.html) widget.
+
+## Push to Github
+
+```shell
+git add .
+```
+
+```shell
+git commit -m "your message"
+```
+
+```shell
+git push
+```
