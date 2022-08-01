@@ -39,13 +39,13 @@ assets:
 
 💡 Here's the widgets you will need:
 
- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+ - [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 
- [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
+ - [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 
- [Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
+ - [Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
 
- [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+ - [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
 
 ### 🤼‍♂️ Decoration
 
